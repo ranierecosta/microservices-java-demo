@@ -213,4 +213,7 @@ buildNumber.properties
 !.vscode/extensions.json
 *.code-workspace
 
+## Sensitive content
+twitter-to-kafka-service/src/main/resources/twitter4j.properties
+
 # End of https://www.toptal.com/developers/gitignore/api/java,java-web,code-java,intellij+all,eclipse,vscode,maven
