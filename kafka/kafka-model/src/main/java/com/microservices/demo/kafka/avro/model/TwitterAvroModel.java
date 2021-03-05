@@ -569,3 +569,13 @@ public class TwitterAvroModel extends org.apache.avro.specific.SpecificRecordBas
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
